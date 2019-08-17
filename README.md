@@ -1,5 +1,5 @@
 # Dohun's Leetcode Journey
 
 ## List of Leetcode Questions Attempted
-- [x] 
-- [x] [1021. Remove Outermost Parentheses](https://github.com/doinghun/leetcode/remove-outermost-parentheses/)
+- [x] [20. Valid Parentheses]
+- [x] [1021. Remove Outermost Parentheses](https://github.com/doinghun/leetcode/blob/master/remove-outermost-paretheses.js)
