@@ -19,7 +19,7 @@ Result:
 - Memory Usage: 37.5 MB, less than 8.00% of JavaScript online submissions for Sort Array By Parity.
 
 ### 2nd Answer
-```
+```javascript
 /**
  * @param {number[]} A
  * @return {number[]}
