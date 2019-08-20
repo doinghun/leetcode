@@ -18,7 +18,7 @@ Result:
 - Runtime: 80 ms, faster than 59.67% of JavaScript online submissions for Sort Array By Parity.
 - Memory Usage: 37.5 MB, less than 8.00% of JavaScript online submissions for Sort Array By Parity.
 
-### 2nd Answer
+### 2nd Answer (Improved)
 ```javascript
 /**
  * @param {number[]} A
