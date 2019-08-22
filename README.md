@@ -7,3 +7,4 @@
 - [x] [832. Flipping an image](https://github.com/doinghun/leetcode/blob/master/flipping-image.md)
 - [x] [905. Sort Array by Parity](https://github.com/doinghun/leetcode/blob/master/sort-array-by-parity.md)
 - [x] [121. Best Time to Buy and Sell Stock](https://github.com/doinghun/leetcode/blob/master/best-time-to-buy-and-sell-stock.md)
+- [x] [217. Contains Duplicate](https://github.com/doinghun/leetcode/blob/master/contains-duplicate.md)
