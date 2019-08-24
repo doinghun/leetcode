@@ -24,12 +24,12 @@ Output: [4,9,9,49,121]
 var sortedSquares = function(A) {
     var ans = []
     A.forEach((el) => {
-        ans.push(Math.pow(Math.abs(el),2))
+        ans.push(Math.abs(el*el))
     })
     return ans.sort((a,b) => a-b)
 };
 ```
 
 #### Result
-- Runtime: 148 ms, faster than 32.14% of JavaScript online submissions for Squares of a Sorted Array.
+- Runtime: 136 ms, faster than 65.38% of JavaScript online submissions for Squares of a Sorted Array.
 - Memory Usage: 43.2 MB, less than 81.48% of JavaScript online submissions for Squares of a Sorted Array.
