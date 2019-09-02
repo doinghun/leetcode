@@ -15,7 +15,7 @@
 
 ### String
 - [x] [804. Unique Morse Code Words](https://github.com/doinghun/leetcode/blob/master/unique-morse-code-words.js)
-- [x] 125. Valid Palindrome
+- [ ] 125. Valid Palindrome
 
 ### Binary
 - [x] [371. Sum of Two Integers](https://github.com/doinghun/leetcode/blob/master/sum-of-two-integers.md)
