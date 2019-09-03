@@ -10,7 +10,7 @@
 - [x] [33. Search in Rotated Sorted Array](https://github.com/doinghun/leetcode/blob/master/search-in-rotate-sorted-array.md)
 - [x] [832. Flipping an image](https://github.com/doinghun/leetcode/blob/master/flipping-image.md)
 - [x] [905. Sort Array by Parity](https://github.com/doinghun/leetcode/blob/master/sort-array-by-parity.md)
-- [ ] 13. 3Sum
+- [ ] [13. 3Sum](https://github.com/doinghun/leetcode/blob/master/3sum.md)
 
 
 ### String
@@ -28,7 +28,7 @@
 
 ### Dynamic Programming
 - [x] [70. Climbing Stairs](https://github.com/doinghun/leetcode/blob/master/climbing-stairs.md)
-- [ ] [322. Coin Change]
+- [ ] [322. Coin Change]()
 
 ### Heap
 - [ ] 347. Top K Frequent Elements
