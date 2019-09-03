@@ -47,3 +47,5 @@ var threeSum = function(nums) {
 - Runtime: 152 ms, faster than 89.27% of JavaScript online submissions for 3Sum.
 - Memory Usage: 46.3 MB, less than 96.00% of JavaScript online submissions for 3Sum.
 
+#### Reference 
+- https://www.youtube.com/watch?v=-AMHUdZc9ss
