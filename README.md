@@ -10,11 +10,9 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./best-time-to-buy-and-sell-stock.md)|Easy| &#9745;|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./find-minimum-in-rotated-sorted-array.md)|Easy| &#9745;|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./contains-duplicate)|Easy|&#9745;|
-
-- [x] [238. Product of Array Except Self](https://github.com/doinghun/leetcode/blob/master/product-of-array-except-self.md)
-- [x] [832. Flipping an image](https://github.com/doinghun/leetcode/blob/master/flipping-image.md)
-- [x] [905. Sort Array by Parity](https://github.com/doinghun/leetcode/blob/master/sort-array-by-parity.md)
-
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./product-of-array-except-self.md)|Easy|&#9745;|
+|832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./flipping-image.md)|Easy|&#9745;|
+|905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./sort-array-by-parity.md)|Easy|&#9745;|
 
 ### String
 - [x] [804. Unique Morse Code Words](https://github.com/doinghun/leetcode/blob/master/unique-morse-code-words.js)
@@ -30,8 +28,10 @@
 - [x] [20. Valid Parentheses](https://github.com/doinghun/leetcode/blob/master/valid-parentheses.js)
 
 ### Dynamic Programming
-- [x] [70. Climbing Stairs](https://github.com/doinghun/leetcode/blob/master/climbing-stairs.md)
-- [ ] [322. Coin Change]()
+| # | Title | Solution | Difficulty |Completed|
+|---| ----- | -------- | ---------- |-------- |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](https://github.com/doinghun/leetcode/blob/master/climbing-stairs.md)|Easy| &#9745;|
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|Medium| ❌|
 
 ### Heap
 - [ ] 347. Top K Frequent Elements
