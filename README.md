@@ -1,16 +1,19 @@
 # Dohun's Leetcode Journey
 
 ### Array
-- [x] 1. Two Sum
-- [x] [121. Best Time to Buy and Sell Stock](https://github.com/doinghun/leetcode/blob/master/best-time-to-buy-and-sell-stock.md)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./best-time-to-buy-and-sell-stock.md)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./maximum-subarray.md)|Easy|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./search-in-rotate-sorted-array.md)|Easy|
+|13|[3Sum](https://leetcode.com/problems/3sum) | [JavaScript](./3sum.md)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript]()|Easy|
+
 - [x] [217. Contains Duplicate](https://github.com/doinghun/leetcode/blob/master/contains-duplicate.md)
 - [x] [238. Product of Array Except Self](https://github.com/doinghun/leetcode/blob/master/product-of-array-except-self.md)
-- [x] [53. Maximum Subarray](https://github.com/doinghun/leetcode/blob/master/maximum-subarray.md)
 - [x] [153. Find Minimum in Rotated Sorted Array](https://github.com/doinghun/leetcode/blob/master/find-minimum-in-rotated-sorted-array.md)
-- [x] [33. Search in Rotated Sorted Array](https://github.com/doinghun/leetcode/blob/master/search-in-rotate-sorted-array.md)
 - [x] [832. Flipping an image](https://github.com/doinghun/leetcode/blob/master/flipping-image.md)
 - [x] [905. Sort Array by Parity](https://github.com/doinghun/leetcode/blob/master/sort-array-by-parity.md)
-- [ ] [13. 3Sum](https://github.com/doinghun/leetcode/blob/master/3sum.md)
 
 
 ### String
