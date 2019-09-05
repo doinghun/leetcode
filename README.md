@@ -11,6 +11,7 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./find-minimum-in-rotated-sorted-array.md)|Easy| &#9745;|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./contains-duplicate)|Easy|&#9745;|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./product-of-array-except-self.md)|Medium|&#9745;|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./intersection-of-two-arrays.js)|Easy|&#9745;|
 |832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./flipping-image.md)|Easy|&#9745;|
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./sort-array-by-parity.md)|Easy|&#9745;|
 
