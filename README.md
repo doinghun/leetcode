@@ -15,8 +15,11 @@
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./sort-array-by-parity.md)|Easy|&#9745;|
 
 ### String
-- [x] [804. Unique Morse Code Words](https://github.com/doinghun/leetcode/blob/master/unique-morse-code-words.js)
-- [ ] 125. Valid Palindrome
+| # | Title | Solution | Difficulty |Completed|
+|---| ----- | -------- | ---------- |-------- |
+|125|[Valide Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript]()| | |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./reverse-string.js)|Easy|&#9745;|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./unique-morse-code-words.js)|Easy |&#9745; |
 
 ### Binary
 - [x] [371. Sum of Two Integers](https://github.com/doinghun/leetcode/blob/master/sum-of-two-integers.md)
@@ -24,8 +27,8 @@
 - [ ] 338. Counting Bits
 
 ### Stack
-- [x] [1021. Remove Outermost Parentheses](https://github.com/doinghun/leetcode/blob/master/remove-outermost-paretheses.js)
-- [x] [20. Valid Parentheses](https://github.com/doinghun/leetcode/blob/master/valid-parentheses.js)
+- [x] [1021. Remove Outermost Parentheses](./remove-outermost-paretheses.js)
+- [x] [20. Valid Parentheses](./valid-parentheses.js)
 
 ### Dynamic Programming
 | # | Title | Solution | Difficulty |Completed|
