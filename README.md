@@ -46,3 +46,9 @@
 
 ### Linked List
 - [ ] 206. Reverse Linked List
+
+### Tree
+| # | Title | Solution | Difficulty |Completed|
+|---| ----- | -------- | ---------- |-------- |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |
