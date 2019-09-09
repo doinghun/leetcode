@@ -51,4 +51,5 @@
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
+|938|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745; |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |
