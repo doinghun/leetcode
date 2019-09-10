@@ -26,6 +26,7 @@
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
 |37 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[JavaScript](./Binary/sum-of-two-integers.md)|Easy|&#9745;|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|Easy|&#9745;|
 |191|[Number of 1 Bits]()|[JavaScript]() |Easy| |
 |338|[Counting Bits]()|[JavaScript]() |Easy| |
 
