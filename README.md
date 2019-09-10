@@ -40,17 +40,19 @@
 |---| ----- | -------- | ---------- |-------- |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](./Dynamic%20Programming/climbing-stairs.md)|Easy| &#9745;|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|Medium| ❌|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[JavaScript](./Dynamic%20Programming/divisor-game.js)|Easy|&#9745;|
+
+### Tree
+| # | Title | Solution | Difficulty |Completed|
+|---| ----- | -------- | ---------- |-------- |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree)|Easy|&#9745; |
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postordre-traversal.js)|Easy|&#9745;|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745;|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |
 
 ### Heap
 - [ ] 347. Top K Frequent Elements
 
 ### Linked List
 - [ ] 206. Reverse Linked List
-
-### Tree
-| # | Title | Solution | Difficulty |Completed|
-|---| ----- | -------- | ---------- |-------- |
-|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postordre-traversal.js)|Easy|&#9745;|
-|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
-|938|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745;|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |
