@@ -52,8 +52,9 @@
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745;|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |
 
+### Linked List
+| # | Title | Solution | Difficulty |Completed|
+|---| ----- | -------- | ---------- |-------- |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Linked%20List/reverse-linked-list.js)|Easy|&#9745; |
 ### Heap
 - [ ] 347. Top K Frequent Elements
-
-### Linked List
-- [ ] 206. Reverse Linked List
