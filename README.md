@@ -59,6 +59,8 @@
 ### Linked List
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./Linked%20List/merge-two-sorted-lists.md)|Easy|&#9745; |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Linked%20List/reverse-linked-list.js)|Easy|&#9745; |
+
 ### Heap
 - [ ] 347. Top K Frequent Elements
