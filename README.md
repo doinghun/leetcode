@@ -9,6 +9,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/maximum-subarray.md)|Easy|&#9745;|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/best-time-to-buy-and-sell-stock.md)|Easy|&#9745;|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/find-minimum-in-rotated-sorted-array.md)|Easy|&#9745;|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|Easy|&#9745;|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/contains-duplicate)|Easy|&#9745;|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/product-of-array-except-self.md)|Medium|&#9745;|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Array/move-zeroes.md)|Easy|&#9745;|
