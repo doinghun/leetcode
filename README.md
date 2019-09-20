@@ -9,6 +9,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/maximum-subarray.md)|Easy|&#9745;|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/best-time-to-buy-and-sell-stock.md)|Easy|&#9745;|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/find-minimum-in-rotated-sorted-array.md)|Easy|&#9745;|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|Easy|&#9745;|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/contains-duplicate)|Easy|&#9745;|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/product-of-array-except-self.md)|Medium|&#9745;|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Array/move-zeroes.md)|Easy|&#9745;|
@@ -49,7 +50,9 @@
 ### Tree
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree)|Easy|&#9745; |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|Easy|&#9745; |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|Easy|&#9745; |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./Tree/diameter-of-binary-tree.md)|Easy|&#9745;|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postordre-traversal.js)|Easy|&#9745;|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745;|
@@ -58,6 +61,8 @@
 ### Linked List
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./Linked%20List/merge-two-sorted-lists.md)|Easy|&#9745; |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Linked%20List/reverse-linked-list.js)|Easy|&#9745; |
+
 ### Heap
 - [ ] 347. Top K Frequent Elements
