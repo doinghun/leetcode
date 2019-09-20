@@ -53,7 +53,7 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|Easy|&#9745; |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|Easy|&#9745; |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./Tree/diameter-of-binary-tree.md)|Easy|&#9745;|
-|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postordre-traversal.js)|Easy|&#9745;|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postordre-traversal.md)|Easy|&#9745;|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./Tree/search-in-a-binary-search-tree.js)|Easy|&#9745;|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./Tree/range-sum-of-bst.js)|Easy|&#9745; |

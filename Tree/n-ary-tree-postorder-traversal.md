@@ -1,10 +1,10 @@
-/**
- * // Definition for a Node.
- * function Node(val,children) {
- *    this.val = val;
- *    this.children = children;
- * };
- */
+### Problem
+Given an n-ary tree, return the postorder traversal of its nodes' values.
+Return its postorder traversal as: `[5,6,3,2,4,1]`.
+
+### Solution
+
+```javascript
 /**
  * @param {Node} root
  * @return {number[]}
@@ -23,7 +23,8 @@ var postorder = function(root) {
     }
     return ans;
 };
-/*
-Runtime: 604 ms, faster than 66.11% of JavaScript online submissions for N-ary Tree Postorder Traversal.
-Memory Usage: 81.1 MB, less than 14.29% of JavaScript online submissions for N-ary Tree Postorder Traversal.
-*/
+```
+
+__Result__
+- Runtime: 604 ms, faster than 66.11% of JavaScript online submissions for N-ary Tree Postorder Traversal.
+- Memory Usage: 81.1 MB, less than 14.29% of JavaScript online submissions for N-ary Tree Postorder Traversal.
