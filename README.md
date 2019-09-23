@@ -52,6 +52,8 @@
 |---| ----- | -------- | ---------- |-------- |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|Easy|&#9745; |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|Easy|&#9745; |
+|112|[Path Sum I](https://leetcode.com/problems/path-sum)|[JavaScript](./Tree/path-sum.md)|Easy|&#9745;|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[JavaScript](./Tree/path-sum-iii.md)|Easy/Medium|&#9745;|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./Tree/diameter-of-binary-tree.md)|Easy|&#9745;|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postorder-traversal.md)|Easy|&#9745;|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|Easy|&#9745;|
