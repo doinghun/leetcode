@@ -44,6 +44,7 @@
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](./Dynamic%20Programming/climbing-stairs.md)|Easy| &#9745;|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](./Dynamic%20Programming/house-robber.md)|Easy|&#9745;|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|Medium| ❌|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[JavaScript](./Dynamic%20Programming/divisor-game.js)|Easy|&#9745;|
 
