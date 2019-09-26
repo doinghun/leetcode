@@ -51,9 +51,8 @@ var isPalindrome = function(head) {
         slow = slow.next;
     }
     return true;
-}
 
-function reverse(head){
+function reverse(head){ // same logic as reverse linked list
     let cur = null
     let prev = null
     while(head !== null){
