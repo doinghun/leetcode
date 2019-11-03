@@ -51,6 +51,7 @@
 ### Tree
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./Tree/same-tree.md)|Easy|&#9745; |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|Easy|&#9745; |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|Easy|&#9745; |
 |112|[Path Sum I](https://leetcode.com/problems/path-sum)|[JavaScript](./Tree/path-sum.md)|Easy|&#9745;|
