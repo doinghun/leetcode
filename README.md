@@ -1,4 +1,4 @@
-# Dohun's Leetcode Journey
+# [Dohun's Leetcode Journey](https://leetcode.com/doinghun/)
 
 ### Array
 | # | Title | Solution | Difficulty |Completed|
@@ -22,6 +22,7 @@
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript]()| | |
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|Easy|&#9745;|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/reverse-string.js)|Easy|&#9745;|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|Easy |&#9745; |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|Easy|&#9745;|
