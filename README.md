@@ -3,7 +3,7 @@
 ### Array
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript]()|Easy| &#9745;|
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript](./Array/1-two-sum.md)|Easy| &#9745;|
 |13|[3Sum](https://leetcode.com/problems/3sum) | [JavaScript](./Array/3sum.md)|Easy|&#9745;|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./Array/search-in-rotate-sorted-array.md)|Easy|&#9745;|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/maximum-subarray.md)|Easy|&#9745;|
