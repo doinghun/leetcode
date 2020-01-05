@@ -1,5 +1,12 @@
 # [Dohun's Leetcode Journey](https://leetcode.com/doinghun/)
 
+| # | Title | Solution | Difficulty |Completed|Topic|
+|---| ----- | -------- | ---------- |-------- |-----|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](./Array/1-two-sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
+|13|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](./Array/3sum.md)|![easy](https://img.shields.io/badge/-easy-brightgreen)|✔️|Array|
+
+
 ### Array
 | # | Title | Solution | Difficulty |Completed|
 |---| ----- | -------- | ---------- |-------- |
