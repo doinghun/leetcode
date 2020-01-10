@@ -2,12 +2,13 @@
 
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
-|1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](./Array/1-two-sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](./Array/1_two-sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |13|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](./Array/3sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./Array/search-in-rotate-sorted-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/maximum-subarray.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/best-time-to-buy-and-sell-stock.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|53|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./Array/66_plus-one.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/121_best-time-to-buy-and-sell-stock.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/find-minimum-in-rotated-sorted-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/contains-duplicate)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
@@ -31,13 +32,13 @@
 |1021|[Remove Outermost Parenthese](https://leetcode.com/problems/remove-outermost-parenthese)|[JavaScript](./Stack/remove-outermost-paretheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Stack|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](./Dynamic%20Programming/climbing-stairs.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️| Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](./Dynamic%20Programming/house-robber.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️| Dynamic Programming|
-|322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|Medium| ❌|Dynamic Programming|
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)| |Dynamic Programming|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[JavaScript](./Dynamic%20Programming/divisor-game.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Dynamic Programming|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./Tree/same-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ | Tree|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
 |112|[Path Sum I](https://leetcode.com/problems/path-sum)|[JavaScript](./Tree/path-sum.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[JavaScript](./Tree/path-sum-iii.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)/Medium|✔️|Tree|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[JavaScript](./Tree/path-sum-iii.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Tree|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./Tree/diameter-of-binary-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./Tree/n-ary-tree-postorder-traversal.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Javascript](./Tree/merge-two-binary-trees.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
