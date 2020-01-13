@@ -7,7 +7,7 @@
 |13|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](./Array/3sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./Array/search-in-rotate-sorted-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/maximum-subarray.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
-|53|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./Array/66_plus-one.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./Array/66_plus-one.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/121_best-time-to-buy-and-sell-stock.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/find-minimum-in-rotated-sorted-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
