@@ -33,6 +33,21 @@ var containsDuplicate = function(nums) {
 };
 ```
 
-#### Result
-- Runtime: 104 ms, faster than 20.97% of JavaScript online submissions for Contains Duplicate.
-- Memory Usage: 38.6 MB, less than 88.24% of JavaScript online submissions for Contains Duplicate.
+- Time Complexity: O(N logN)
+- Space Complexity: O(1)
+
+### Attempt 2 (Optimised)
+- Using Set
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var containsDuplicate = function(nums) {
+    let set = new Set(nums)
+    if(set.size === nums.length) return false;
+    return true;
+};
+```
+- Time Complexity: O(N) // search operation
+- Space Complexity: O(N)
