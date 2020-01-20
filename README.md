@@ -12,7 +12,7 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/find-minimum-in-rotated-sorted-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/217_contains-duplicate)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/product-of-array-except-self.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/238_product-of-array-except-self.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Array/move-zeroes.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./Array/intersection-of-two-arrays.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Array/find-all-numbers-disappeared-in-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|

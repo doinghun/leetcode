@@ -56,7 +56,7 @@ var productExceptSelf = function(nums) {
         if(i<n-1){
             right *= nums[i+1];   
         }
-        res[i] *= right;
+        res[i] = right;
     }
     
     return res
