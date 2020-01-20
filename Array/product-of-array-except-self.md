@@ -18,9 +18,7 @@ Note: Please solve it without division and in O(n).
 var productExceptSelf = function(nums) {
     var temp = [];
     var ans = [];
-    for(i=0;i<nums.length;i++){
-        
-    }
+ 
     for(i=0;i<nums.length;i++){
         temp = nums.shift();
         ans.push(nums.reduce( (a,b) => a * b));
