@@ -26,6 +26,6 @@ var maxSubArray = function(nums) {
     return maxSoFar
 };
 ```
-#### Result
-- Runtime: 52 ms, faster than 94.61% of JavaScript online submissions for Maximum Subarray.
-- Memory Usage: 35.3 MB, less than 62.96% of JavaScript online submissions for Maximum Subarray.
+
+- Time Complexity: O(N)
+- Space Complexity: O(1)
