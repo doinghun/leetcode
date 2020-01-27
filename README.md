@@ -19,7 +19,7 @@
 |832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./Array/flipping-image.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./Array/sort-array-by-parity.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[JavaScript](./Math/326-power-of-three)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript]()|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/reverse-string.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Javascript](./String/412-fizz-buzz.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
