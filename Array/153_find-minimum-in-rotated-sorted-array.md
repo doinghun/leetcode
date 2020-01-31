@@ -43,6 +43,5 @@ var findMin = function(nums) {
 };
 ```
 
-#### Result
-- Runtime: 52 ms, faster than 82.46% of JavaScript online submissions for Find Minimum in Rotated Sorted Array.
-- Memory Usage: 33.8 MB, less than 68.75% of JavaScript online submissions for Find Minimum in Rotated Sorted Array.
+- Time Complexity: O(Log N)
+- Space Complexity: O(1)
