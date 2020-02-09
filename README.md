@@ -3,7 +3,6 @@
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](./Array/1_two-sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](./Array/15_3sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./Array/search-in-rotate-sorted-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/53_maximum-subarray.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
@@ -20,6 +19,7 @@
 |832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./Array/flipping-image.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./Array/sort-array-by-parity.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[JavaScript](./Math/326-power-of-three)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/reverse-string.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
@@ -30,6 +30,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |191|[Number of 1 Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
 |338|[Counting Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
+|1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./Binary/1342_number-of-steps-to-reduce-a-number-to-zero.md) |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[JavaScript](./Stack/valid-parentheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️| Stack|
 |1021|[Remove Outermost Parenthese](https://leetcode.com/problems/remove-outermost-parenthese)|[JavaScript](./Stack/remove-outermost-paretheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Stack|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](./Dynamic%20Programming/climbing-stairs.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️| Dynamic Programming|
