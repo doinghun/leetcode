@@ -7,6 +7,7 @@ Completed: 88
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](./Array/1_two-sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./Array/11_container-with-most-water.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](./Array/15_3sum.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./Array/26_remove-duplicates-from-sorted-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[JavaScript](./Array/search-in-rotate-sorted-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](./Array/53_maximum-subarray.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./Array/66_plus-one.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
