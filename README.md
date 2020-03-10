@@ -16,9 +16,11 @@ Completed: 88
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[JavaScript](./Array/152_maximum-product-subarray.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/153_find-minimum-in-rotated-sorted-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[JavaScript](./Array/209_minimum-size-subarray-sum.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/217_contains-duplicate)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/238_product-of-array-except-self.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Array/move-zeroes.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./Array/287_find-the-duplicate-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./Array/intersection-of-two-arrays.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Array/find-all-numbers-disappeared-in-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./Array/flipping-image.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
