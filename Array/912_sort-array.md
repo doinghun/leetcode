@@ -1,4 +1,4 @@
-### <span style="background-color: #FFFBCC"> Problem
+### Problem
 
 Given an array of integers nums, sort the array in ascending order.
 
@@ -22,7 +22,7 @@ Constraints:
 
 [Question Source - Leetcode](https://leetcode.com/problems/sort-an-array/)
 
-### <span style="background-color: #FFFBCC"> Solution
+### Solution
 
 #### Bubble Sort
 
