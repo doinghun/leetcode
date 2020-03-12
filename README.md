@@ -35,6 +35,7 @@ Completed: 88
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen) |✔️ |String|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./Math/202_happy-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three)|[JavaScript](./Math/326-power-of-three)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |37 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[JavaScript](./Binary/sum-of-two-integers.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |191|[Number of 1 Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
@@ -46,7 +47,7 @@ Completed: 88
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](./Dynamic%20Programming/house-robber.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️| Dynamic Programming|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)| |Dynamic Programming|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[JavaScript](./Dynamic%20Programming/divisor-game.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Dynamic Programming|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./Tree/same-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ | Tree|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./Tree/100_same-tree.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
 |112|[Path Sum I](https://leetcode.com/problems/path-sum)|[JavaScript](./Tree/path-sum.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
