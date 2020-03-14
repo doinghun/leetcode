@@ -30,7 +30,7 @@ Completed: 88
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./String/22_generate-parentheses.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/reverse-string.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/344_reverse-string.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Javascript](./String/412-fizz-buzz.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen) |✔️ |String|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
