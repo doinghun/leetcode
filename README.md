@@ -27,6 +27,7 @@ Completed: 88
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./Array/sort-array-by-parity.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[JavaScript](/Array/sort-array.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./String/3_longest-substring-without-repeating-characters.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./String/22_generate-parentheses.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/reverse-string.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
