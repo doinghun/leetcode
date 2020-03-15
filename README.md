@@ -63,3 +63,4 @@ Completed: 88
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Linked%20List/reverse-linked-list.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Linked List|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./Linked%20List/palindrome-linked-list.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Linked List|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript]()|![easy](https://img.shields.io/badge/-Easy-brightgreen)||Linked List|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript]()|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
