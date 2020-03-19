@@ -34,6 +34,7 @@ Completed: 88
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Javascript](./String/412-fizz-buzz.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen) |✔️ |String|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./Math/202_happy-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |37 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[JavaScript](./Binary/sum-of-two-integers.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |191|[Number of 1 Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
