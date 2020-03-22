@@ -1,6 +1,6 @@
 # [Dohun's Leetcode Journey](https://leetcode.com/doinghun/)
 
-Completed: 88
+Completed: 89
 
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
@@ -36,6 +36,7 @@ Completed: 88
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./Math/202_happy-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[JavaScript](./Math/326-power-of-three)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[JavaScript](./Math/1281_subtract-the-product-and-sum-of-digits-of-an-integer.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |37 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[JavaScript](./Binary/sum-of-two-integers.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |191|[Number of 1 Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
