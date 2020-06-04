@@ -1,6 +1,6 @@
 # [Dohun's Leetcode Journey](https://leetcode.com/doinghun/)
 
-Completed: 89
+Completed: 92
 
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
@@ -13,37 +13,46 @@ Completed: 89
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./Array/66_plus-one.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript]()|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Array/121_best-time-to-buy-and-sell-stock.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./Array/122_best-time-to-buy-and-sell-stock-ii.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[JavaScript](./Array/152_maximum-product-subarray.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[JavaScript](./Array/153_find-minimum-in-rotated-sorted-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./Array/majority-element.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[JavaScript](./Array/209_minimum-size-subarray-sum.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[JavaScript](./Array/217_contains-duplicate)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[JavaScript](./Array/238_product-of-array-except-self.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./Array/268_missing-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Array/move-zeroes.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./Array/287_find-the-duplicate-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./Array/intersection-of-two-arrays.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./Array/350_intersection-of-two-arrays-ii.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Array/find-all-numbers-disappeared-in-array.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |832|[Flipping an image](https://leetcode.com/problems/flipping-an-image)|[JavaScript](./Array/flipping-image.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |905|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity)|[JavaScript](./Array/sort-array-by-parity.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[JavaScript](/Array/sort-array.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[JavaScript](./Array/1295_find-numbers-with-even-number-of-digits.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./String/3_longest-substring-without-repeating-characters.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./String/22_generate-parentheses.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](https://doinghun.github.io/2019/10/11/excel-sheet-column-number/)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](./String/171_excel-sheet-column-number.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+-Easy-brightgreen)|✔️|Binary Search|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./String/242_valid-anagram.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/344_reverse-string.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./String/387_first-unique-character-in-a-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Javascript](./String/412-fizz-buzz.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen) |✔️ |String|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./String/robot-return-to-origin.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[JavaScript](./String/unique-morse-code-words.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen) |✔️ |String|
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[JavaScript](./String/1221_split-a-string-in-balanced-strings.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./Math/202_happy-number.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[JavaScript](./Math/326-power-of-three)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[JavaScript](./Math/1281_subtract-the-product-and-sum-of-digits-of-an-integer.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Math|
 |37 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[JavaScript](./Binary/sum-of-two-integers.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./Binary/single-number.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
-|191|[Number of 1 Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./Binary/191_number-of-1-bits.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary|
 |338|[Counting Bits]()|[JavaScript]() |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./Binary/1342_number-of-steps-to-reduce-a-number-to-zero.md) |![easy](https://img.shields.io/badge/-Easy-brightgreen)| |Binary|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[JavaScript](./Stack/valid-parentheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️| Stack|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[JavaScript](./Stack/valid-parentheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️|Stack|
 |1021|[Remove Outermost Parenthese](https://leetcode.com/problems/remove-outermost-parenthese)|[JavaScript](./Stack/remove-outermost-paretheses.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Stack|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./Dynamic%20Programming/46_permutations.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Dynamic Programming|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[JavaScript](./Dynamic%20Programming/climbing-stairs.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)| ✔️| Dynamic Programming|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](./Dynamic%20Programming/house-robber.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️| Dynamic Programming|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|[JavaScript]()|![Medium](https://img.shields.io/badge/-Medium-orange)| |Dynamic Programming|
@@ -52,6 +61,7 @@ Completed: 89
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./Tree/100_same-tree.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./Tree/symmetric-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Tree/maximum-depth-of-binary-tree.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Tree|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./Tree/108_convert-sorted-array-to-binary-search-tree.md)|![Easy](https://img.shields.io/badge/-Easys-brightgreen)|✔️|Tree|
 |112|[Path Sum I](https://leetcode.com/problems/path-sum)|[JavaScript](./Tree/path-sum.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[JavaScript](./Tree/path-sum-iii.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Tree|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./Tree/diameter-of-binary-tree.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Tree|
@@ -63,5 +73,7 @@ Completed: 89
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaSCript](./Linked%20List/linked-list-cycle.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Linked List|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Linked%20List/reverse-linked-list.js)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️ |Linked List|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./Linked%20List/palindrome-linked-list.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Linked List|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./Linked%20List/237_delete-node-in-a-linked-list.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Linked List|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript]()|![easy](https://img.shields.io/badge/-Easy-brightgreen)||Linked List|
-|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript]()|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./Binary%20Search/704_binary-search.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./Array/1431_kids-with-the-greatest-number-of-candies.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
