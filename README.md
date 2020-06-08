@@ -77,3 +77,4 @@ Completed: 92
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript]()|![easy](https://img.shields.io/badge/-Easy-brightgreen)||Linked List|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./Binary%20Search/704_binary-search.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./Array/1431_kids-with-the-greatest-number-of-candies.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](./Array/1470_shuffle-the-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
