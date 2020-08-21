@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoinghun%2Fleetcode&count_bg=%23F9C269&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Completed: 92
+Completed: 95
 
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
@@ -36,7 +36,6 @@ Completed: 92
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./String/22_generate-parentheses.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./String/125_valid-palindrome.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen) | |String|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavsScript](./String/171_excel-sheet-column-number.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
--Easy-brightgreen)|✔️|Binary Search|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./String/242_valid-anagram.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Javascript](./String/344_reverse-string.md)|![easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./String/387_first-unique-character-in-a-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
