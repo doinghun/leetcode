@@ -78,3 +78,5 @@ Completed: 92
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./Binary%20Search/704_binary-search.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./Array/1431_kids-with-the-greatest-number-of-candies.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](./Array/1470_shuffle-the-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./Array/1480_running-sum-of-1d-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1512|[Number of Good pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./Array/1512_number-of-good-pairs.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
