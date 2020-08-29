@@ -82,3 +82,4 @@ Completed: 97
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./Array/1480_running-sum-of-1d-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1512|[Number of Good pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./Array/1512_number-of-good-pairs.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./String/1528_shuffle-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[JavaScript](./Array/1313_decompress-run-length-encoded-list.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
