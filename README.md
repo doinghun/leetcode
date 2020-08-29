@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoinghun%2Fleetcode&count_bg=%23F9C269&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Completed: 95
+Completed: 97
 
 | # | Title | Solution | Difficulty |Completed|Topic|
 |---| ----- | -------- | ---------- |-------- |-----|
@@ -81,3 +81,4 @@ Completed: 95
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](./Array/1470_shuffle-the-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./Array/1480_running-sum-of-1d-array.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1512|[Number of Good pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./Array/1512_number-of-good-pairs.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./String/1528_shuffle-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
