@@ -84,3 +84,4 @@ Completed: 97
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./String/1528_shuffle-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[JavaScript](./Array/1313_decompress-run-length-encoded-list.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[JavaScript](./Array/1395_count-number-of-teams.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[JavaScript](./Array/1389_create-target-array-in-the-given-order.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
