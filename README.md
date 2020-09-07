@@ -83,3 +83,4 @@ Completed: 97
 |1512|[Number of Good pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./Array/1512_number-of-good-pairs.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./String/1528_shuffle-string.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[JavaScript](./Array/1313_decompress-run-length-encoded-list.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[JavaScript](./Array/1395_count-number-of-teams.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Array|
