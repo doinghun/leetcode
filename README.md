@@ -92,3 +92,4 @@ Completed: 101
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[JavaScript](./String/1614_maximum-nesting-depth-of-the-parentheses.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[JavaScript](./Array/1534_count-good-triplets.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[JavaScript](./Design/1603_design-parking-system.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Design|
+|1662|[Check If Two String Arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](./Array/1662_check-if-two-string-arrays-are-equivalent.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
