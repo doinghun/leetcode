@@ -94,3 +94,4 @@ Completed: 101
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[JavaScript](./Design/1603_design-parking-system.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Design|
 |1662|[Check If Two String Arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](./Array/1662_check-if-two-string-arrays-are-equivalent.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[JavaScript](./Tree/1302_deepest-leaves-sum.md)|![Medium](https://img.shields.io/badge/-Medium-orange)|✔️|Tree|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[JavaScript](./String/1678_goal-parser-interpretation.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
