@@ -97,3 +97,4 @@ Completed: 101
 |1662|[Check If Two String Arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](./Array/1662_check-if-two-string-arrays-are-equivalent.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[JavaScript](./String/1678_goal-parser-interpretation.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[JavaScript](./Array/1672_richest-customer-wealth.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./String/1684_count-the-number-of-consistent-strings.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
