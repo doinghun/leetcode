@@ -74,7 +74,7 @@ var selectionSort = function(nums) {
 - Runtime: O(N^2)
 - Memory: O(1)
 
-### Insertion Sort
+#### Insertion Sort
 
 ```javascript
 var insertionSort = function(nums) {
@@ -94,7 +94,7 @@ var insertionSort = function(nums) {
 - Runtime: O(N^2)
 - Memory: O(1)
 
-### Merge Sort
+#### Merge Sort
 
 Pseudocode
 
@@ -143,7 +143,7 @@ var mergeSort = function(arr) {
 }
 ```
 
-### Quick Sort
+#### Quick Sort
 
 Pseudocode
 
