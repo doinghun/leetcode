@@ -98,3 +98,4 @@ Completed: 101
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[JavaScript](./String/1678_goal-parser-interpretation.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[JavaScript](./Array/1672_richest-customer-wealth.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Array|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./String/1684_count-the-number-of-consistent-strings.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|String|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./Binary%20Search/278_first-bad-version.md)|![Easy](https://img.shields.io/badge/-Easy-brightgreen)|✔️|Binary Search|
